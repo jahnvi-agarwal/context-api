@@ -45,8 +45,8 @@ The project is structured to promote modularity and reusability:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>](https://github.com/jahnvi-agarwal/context-api
-    cd context-api
+    git clone 
+    cd 
     ```
 2.  **Install dependencies:**
     ```bash
